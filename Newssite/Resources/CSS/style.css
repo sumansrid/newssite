@@ -57,3 +57,16 @@ div{
   border: 1px solid black;
   display: block;
 }
+
+h2{
+  display: block;
+  font-weight: bold;
+}
+
+p{
+  display: block;
+}
+
+.column.medium{
+  width: 300px;
+}
