@@ -70,3 +70,11 @@ p{
 .column.medium{
   width: 300px;
 }
+
+.column.small{
+  width: 240px;
+}
+
+h3{
+  display: block;
+}
